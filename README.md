@@ -1,2 +1,2 @@
 # keyboard
-A Go package for readiing keyboard input.
+A Go package for reading keyboard input.
